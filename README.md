@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn more about games
 - 🌱 I’m currently learning about games
 - 💞️ I’m looking to collaborate on with classes
-- 📫 How to reach me susla.silva@escola.pr.gov.br
+- 📫 How to reach me [email](susla.silva@escola.pr.gov.br)
 I’m looking to collaborate on 
 <!---
 MINHOCA75/MINHOCA75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
